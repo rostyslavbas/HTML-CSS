@@ -1,0 +1,210 @@
+.bigred{
+    background-color: red;
+    display: inline-block;
+    width: 900px;
+    height: 900px;
+}
+
+.pink{
+    background-color: pink;
+    display: inline;
+    width: 900px;
+    height: 200px;
+    float: left;
+  
+}
+.white{
+    background-color: white;
+    display: inline;
+    width: 700px;
+    height: 100px;
+    float: left;
+    margin-top:  15px;
+    margin-left: 100px;
+    
+}
+p{text-align: center;
+margin: 0px;
+padding: 0px;
+}
+.black{
+    background-color: black;
+    display: inline;
+    width: 500px;
+    height: 50px;
+    float: left;
+    margin-top:  25px;
+    margin-left: 100px;
+}
+.gray{
+    background-color: gray;
+    display: inline-block;
+    width: 900px;
+    height: 150px;
+    float: left;
+}
+.littlered{
+    background-color: red;
+    display: inline;
+    width: 225px;
+    height: 115px;
+    float: left;
+}
+.littleorange{
+    background-color: orange;
+    display: inline;
+    width: 225px;
+    height: 115px;
+    float: left;
+}
+.littleblue{
+    background-color: lightblue;
+    display: inline;
+    width: 225px;
+    height: 115px;
+    float: left;
+}
+.littleyellow{
+    background-color: yellow;
+    display: inline;
+    width: 225px;
+    height: 115px;
+    float: left;
+}
+.longgreen{ 
+    background-color: green;
+    display: inline;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.tinyorange{
+    background-color: orange;
+    display: inline;
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.longwhite{
+    background-color: whitesmoke;
+    display: inline;
+    width: 100px;
+    height: 240px;
+    float: left;
+    margin-top: 40px;
+}
+.longyellow{
+    background-color: yellow;
+    display: inline;
+    width: 100px;
+    height: 240px;
+    float: left;
+    margin-top: 40px;
+}
+.longlightblue{
+    background-color: lightblue;
+    display: inline;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.longred{
+    background-color: red;
+    display: inline;
+    width: 100px;
+    height: 342px;
+    float: left;
+    margin-top: 40px;
+}
+.longeryellow{
+    background-color: yellow;
+    display: inline;
+    width: 100px;
+    height: 342px;
+    float: left;
+    margin-top: 40px;
+}
+.longerorange{
+    background-color: orange;
+    display: inline;
+    float: left;
+    width: 50px;
+    height: 312px;
+    margin-top: 10px;
+}
+.lttlred{
+    background-color: red;
+    display: inline;
+    float: left;
+    width: 50px;
+    height: 160px;
+    margin-top: 162px;
+}
+.oneorange{
+    background-color:orange;
+    display: inline;
+    width: 100px;
+    height: 342px;
+    float: left;
+    margin-top: 40px;
+}
+.veryblue{
+    background-color: blue;
+    display: inline;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.litblue{
+    background-color: lightblue;
+    display: inline;
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin-top: 190px;
+}
+.lityel{
+    background-color: yellow;
+    display: inline;
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin-top: 125px;
+}
+.last{
+    background-color: orange;
+    display: inline;
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin-top: 55px;
+}
+.thelast{
+    background-color: black;
+    color: cornflowerblue;
+    display: inline;
+    width: 60px;
+    height: 20px;
+    float: left;
+    margin-top: 85px;
+}
+.thelast2{
+    background-color: black;
+    color: cornflowerblue;
+    display: inline;
+    width: 60px;
+    height: 20px;
+    float: right;
+    margin-top: 15px;
+}
+
+.longblack{
+    background-color: black;
+    display: inline;
+    float: left;
+    color: white;
+    width: 900px;
+    height: 148px;
+}
